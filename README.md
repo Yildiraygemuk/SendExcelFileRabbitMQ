@@ -4,6 +4,7 @@ I created a basic application that is built in a layered architecture in accorda
 I used these when creating the project;
 <br></br>
 <li>.Net Core technology</li>
+<li>RabbitMQ</li>
 <li>Enterprise architecture infrastructure</li>
 <li>Dependency Injection and Autofac Implementation</li>
 <li>Objective, clean code techniques</li>
